@@ -6,9 +6,7 @@
     <Application.Resources>
         <!--  Diccionario de Recuros  -->
         <ResourceDictionary>
-            <infra:InstanceLocator x:Key="Locator">
-                
-            </infra:InstanceLocator>
+            <infra:InstanceLocator x:Key="Locator" />
         </ResourceDictionary>
     </Application.Resources>
 </Application>
