@@ -19,6 +19,12 @@ namespace Lands.ViewModels
             get;
             set;
         }
+
+        public LandViewModel Land
+        {
+            get;
+            set;
+        }
         #endregion
 
         #region Constructors
@@ -31,6 +37,7 @@ namespace Lands.ViewModels
 
         #region Singleton
         private static MainViewModel instance;
+
         public static MainViewModel GetInstance()
         {
             if (instance==null)

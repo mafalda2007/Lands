@@ -8,10 +8,11 @@
     <ContentPage.Content>
         <StackLayout
             BindingContext="{Binding Lands}">
-            <SearchBar 
+            <SearchBar
                 BackgroundColor="Silver"
+                HeightRequest="46"
                 Text="{Binding Filter, Mode=TwoWay}"
-                Placeholder="Buscar..."
+                Placeholder="Buscar .."
                 SearchCommand="{Binding SearchCommand}">
             </SearchBar>
             <ListView 
@@ -29,29 +30,33 @@
                                 CornerRadius="20"
                                 HasShadow="True"
                                 Margin="5">
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding SelectLandCommand}" />
+                                </Frame.GestureRecognizers>
                                 <Grid>
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition Width="*"/>
                                         <ColumnDefinition Width="Auto"/>
                                     </Grid.ColumnDefinitions>
                                     <StackLayout 
-                                    Grid.Column="0"
-                                    VerticalOptions="Center">
+                                        Grid.Column="0"
+                                        VerticalOptions="Center">
                                         <Label 
-                                        FontAttributes="Bold"
-                                        FontSize="Medium" 
-                                        Text="{Binding Name}"
-                                        TextColor="Black">
+                                            FontAttributes="Bold"
+                                            FontSize="Medium" 
+                                            Text="{Binding Name}"
+                                            TextColor="Black">
                                         </Label>
                                         <Label 
-                                        Text="{Binding Capital}"
-                                        TextColor="Black">
+                                            Text="{Binding Capital}"
+                                            TextColor="Black">
                                         </Label>
                                     </StackLayout>
                                     <Image 
-                                    Grid.Column="1"
-                                    HorizontalOptions="End" 
-                                    Source="ic_chevron_right">
+                                        Grid.Column="1"
+                                        HorizontalOptions="End" 
+                                        Source="ic_chevron_right"
+                                        >
                                     </Image>
                                 </Grid>
                             </Frame>

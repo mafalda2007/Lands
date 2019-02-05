@@ -100,6 +100,9 @@
                     <Image 
                         WidthRequest="45"
                         Source="logo_instagram">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding LoginFacebookCommand}" ></TapGestureRecognizer>
+                        </Image.GestureRecognizers>
                     </Image>
                     <Image 
                         WidthRequest="55"
