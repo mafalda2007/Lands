@@ -23,6 +23,7 @@
             get { return this.email; }
             set { SetValue(ref this.email, value); }
         }
+
         public bool IsRemembered { get;set; }
 
         public string Password
