@@ -185,12 +185,6 @@
     <BundleResource Include="Resources\mipmap-xxxhdpi\ic_launcher_left.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ic_launcher_left.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\ic_launcher_right.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\mipmap-hdpi\ic_launcher_right.png" />
   </ItemGroup>
   <ItemGroup>
@@ -204,5 +198,23 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\mipmap-xxxhdpi\ic_launcher_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_action_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_chevron_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_action_translate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_action_people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_action_monetization_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_action_language.png" />
   </ItemGroup>
 </Project>

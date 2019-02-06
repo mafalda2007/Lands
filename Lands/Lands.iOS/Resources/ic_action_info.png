@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Lands/ic_chevron_right.png at master · Zulu55/Lands</title>
+  <title>Lands/ic_action_info.png at master · Zulu55/Lands</title>
     <meta name="description" content="Contribute to Zulu55/Lands development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/12401602?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Zulu55/Lands" /><meta property="og:url" content="https://github.com/Zulu55/Lands" /><meta property="og:description" content="Contribute to Zulu55/Lands development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY5NjAyOTMzOjQ1MzcyNGFkNzNhYzYzN2ZkNDk4YjMzZDU3ZjNlOTRhMmY1ZjJkNGI2MzVkMDM0MTdjMjE5ODM0MTEyZmQ3YTA=--998ec0e2193bf7d71e16561a8dcee510de6afa26">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY5NjAyOTMzOmZlOWZmYmM5MDY3ZGNiZTNhNWIxYzZmMjNmMzQ3YjFmY2IxNDY5ODdhNDlhMWZkZWFmYTQwNzE3YjQzODIyYWY=--2dfad39fe787cc486467a503255a9b607811315b">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DCD0:7975:A7D96:11CFA2:5C5B103F" data-pjax-transient>
+  <meta name="request-id" content="DCD0:7975:A6F53:11A167:5C5B1001" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DCD0:7975:A7D96:11CFA2:5C5B103F" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="18195074" /><meta name="octolytics-actor-login" content="mafalda2007" /><meta name="octolytics-actor-hash" content="434eda6f93978b446b0d6a8690073ad08af5ba08916199c626f93b949c0df12b" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DCD0:7975:A6F53:11A167:5C5B1001" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="18195074" /><meta name="octolytics-actor-login" content="mafalda2007" /><meta name="octolytics-actor-hash" content="434eda6f93978b446b0d6a8690073ad08af5ba08916199c626f93b949c0df12b" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="mafalda2007">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="M2I2MjllN2UwNjIxM2I4OTVlZDkwOTZkOWNkMmQyMmY0NDk4MjM3N2VjZTQ0OTFlZjBjZTgzMjM1YmFiYTgwMHx7InJlbW90ZV9hZGRyZXNzIjoiMjAwLjUuMTAxLjIxMCIsInJlcXVlc3RfaWQiOiJEQ0QwOjc5NzU6QTdEOTY6MTFDRkEyOjVDNUIxMDNGIiwidGltZXN0YW1wIjoxNTQ5NDcxODEzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="MTgwOWVlNGFlYjg3NWVmNGE2ZjU0NGUzMTEyODk3NGM4MDRmZmI4NWFlNjVjNmYyNWU2NTA2NDViNmZjNDg4MXx7InJlbW90ZV9hZGRyZXNzIjoiMjAwLjUuMTAxLjIxMCIsInJlcXVlc3RfaWQiOiJEQ0QwOjc5NzU6QTZGNTM6MTFBMTY3OjVDNUIxMDAxIiwidGltZXN0YW1wIjoxNTQ5NDcxNzc4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2,LAZY_JAVASCRIPT">
 
@@ -87,7 +87,7 @@
   <meta name="octolytics-dimension-user_id" content="12401602" /><meta name="octolytics-dimension-user_login" content="Zulu55" /><meta name="octolytics-dimension-repository_id" content="120768690" /><meta name="octolytics-dimension-repository_nwo" content="Zulu55/Lands" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="120768690" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Zulu55/Lands" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/Zulu55/Lands/blob/master/Lands/Lands.iOS/Resources/ic_chevron_right.png" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Zulu55/Lands/blob/master/Lands/Lands.iOS/Resources/ic_action_info.png" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -156,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=2ZreGQSQa9kjbVKuwTctsTdj4jE6o5+bvGYOu5ywcvYuHsC9N1PWNsykP8QgNXG9D68sq8D3XsM0X/pMP2gNdw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=fBVN4hHoWXO82muCPE67PyHtwCTPim9+VDwdRn3MYR2LkVNGIivknFMTBujdTOczGSEOvjXeribcBemx3hQenA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -386,7 +386,7 @@
       </div>
     </summary>
     <details-dialog class="anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="7NlRvQCd6bt7QCTU9Iq8EqNt3KP/Q6Qq4Xjue53cGwFG9KO+aUoKSJ/StXFlukp2XQhja0Bw0jArWwgZJ5+ycQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Kkv/4a0t2rVQnvC1NlD28vxmJ7csbhPqr9uDTyQSSGmAZg3ixPo5RrQMYRCnYACWAgOYf5NdZfBl+GUtnlHhGQ==" />
         <div class="Box-header">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -501,7 +501,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Qqr34gxe83NNuJkFe5PZdr7iFgTYuqU9aGbGwv/Swph7Q5ecbZSwlOHlFsj07WwReOz+Zhn8jB/q3qEKxrWTIQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8o5hpjJWkxIEyWvNfSRxHVi61avQYESSzdxNdbcPVrzLZwHYU5zQ9aiU5ADyWsR6nrQ9yREmbbBPZCq9jmgHBQ==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -513,7 +513,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XjhrzNOa116RnADRRAJYrX2NCchJCIz1lfH10TP2PQtn0QuyslCUuT3BjxzLfO3Ku4PhqohOpdcXSZIZCpFssg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ocYIaAUPV7Jc1u/2qVnY+aGI6eh5ZR0SLGMoPngH5nGYL2gWZMUUVfCLYDsmJ22eZ4YBirgjNDCu20/2QWC3yA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -551,7 +551,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="C2kEZQ3YUhwq9ZpPcsfupwZxmcE6PZu7bTFdws9r3pB89ltzFZNGLNYVJ3wof5OjW1Ap/ngubLISiYOO5BZUKA==" />      <input type="hidden" name="repository_id" id="repository_id" value="120768690" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="21MACT3piPJVUatGmzJf2X+wUNad3OZAGKHXDyXOosWszF8fJaKcwqmxFnXBiiLdIpHg6d/PEUlnGQlDDrMofQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="120768690" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -625,7 +625,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Zulu55/Lands/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bzXFvW7aHjyfjKpQsT1fZUl02hKTBODwCGmxUxq8vpSjbzO0QGDITEq1LxwZT/y+BkcjxsDmv1QHgpIf2q7gAQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Zulu55/Lands/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KVxX1zB1EHq29bvMWE9luvn7ntJdMlLm9zmCn2R/H1PlBqHeHs/GCmPMPoDwPcZhtshnBg7QDUL40qHTpG1Bxg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -640,7 +640,7 @@
           21
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Zulu55/Lands/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gK4zSpDTT4ACnnviPKRurIroM1TKB9qzHZAOwDyCuL7444xWjDIdjiYts1ia6O97y2W1kBNjfTNNH6GJeIAESw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Zulu55/Lands/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="igQb/zXvGm4YROHvc1OA93EcWT2mowlNTm0Qq2R/c7/ySaTjKQ5IYDz3KVXVHwEgMJHf+X/Hrs0e4r/iIH3PSg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -659,7 +659,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Zulu55/Lands/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Jr0J04xdeEEhSZxQm+Cv1vkl+RZuriXaq9jeTtw2nRBv9lb8EKjha57x7nPqVxPjrJ6T+xY85+lEvMVlMdKvmw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Zulu55/Lands/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MfCPOTGNeUnr4yvOCmb7x6KoXjNUurq2oW/yM8DTFcR4u9AWrXjgY1RbWe170Ufy9xM03iwoeIVOC+kYLTcnTw==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -745,9 +745,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Zulu55/Lands/blob/de0e4e29224298eb2cd4f6f0521df15e2f51b1b8/Lands/Lands.iOS/Resources/ic_chevron_right.png">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Zulu55/Lands/blob/de0e4e29224298eb2cd4f6f0521df15e2f51b1b8/Lands/Lands.iOS/Resources/ic_action_info.png">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:6eea4aec642647e1fcd59fa71dfc9d3d -->
+    <!-- blob contrib key: blob_contributors:v21:6b2d9ec4c71e3aac0056ab14b084ba37 -->
 
     
 
@@ -762,7 +762,7 @@
     <span class="css-truncate-target">master</span>
   </summary>
 
-  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/Zulu55/Lands/ref-list/master/Lands/Lands.iOS/Resources/ic_chevron_right.png?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/Zulu55/Lands/ref-list/master/Lands/Lands.iOS/Resources/ic_action_info.png?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -781,12 +781,12 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands"><span>Lands</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands/tree/master/Lands"><span>Lands</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands/tree/master/Lands/Lands.iOS"><span>Lands.iOS</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands/tree/master/Lands/Lands.iOS/Resources"><span>Resources</span></a></span><span class="separator">/</span><strong class="final-path">ic_chevron_right.png</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands"><span>Lands</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands/tree/master/Lands"><span>Lands</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands/tree/master/Lands/Lands.iOS"><span>Lands.iOS</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Zulu55/Lands/tree/master/Lands/Lands.iOS/Resources"><span>Resources</span></a></span><span class="separator">/</span><strong class="final-path">ic_action_info.png</strong>
       </div>
     </div>
 
 
-    <include-fragment src="/Zulu55/Lands/contributors/master/Lands/Lands.iOS/Resources/ic_chevron_right.png" class="commit-tease commit-loader">
+    <include-fragment src="/Zulu55/Lands/contributors/master/Lands/Lands.iOS/Resources/ic_action_info.png" class="commit-tease commit-loader">
       <div>
         Fetching contributors&hellip;
       </div>
@@ -807,18 +807,18 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Zulu55/Lands/raw/master/Lands/Lands.iOS/Resources/ic_chevron_right.png">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Zulu55/Lands/commits/master/Lands/Lands.iOS/Resources/ic_chevron_right.png">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Zulu55/Lands/raw/master/Lands/Lands.iOS/Resources/ic_action_info.png">Download</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Zulu55/Lands/commits/master/Lands/Lands.iOS/Resources/ic_action_info.png">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="x-github-client://openRepo/https://github.com/Zulu55/Lands?branch=master&amp;filepath=Lands%2FLands.iOS%2FResources%2Fic_chevron_right.png"
+           href="x-github-client://openRepo/https://github.com/Zulu55/Lands?branch=master&amp;filepath=Lands%2FLands.iOS%2FResources%2Fic_action_info.png"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Zulu55/Lands/delete/master/Lands/Lands.iOS/Resources/ic_chevron_right.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ssF88YHp+xTNTRxBIpzS2j0FnHYYdkdF0DH/FGNFUM5D/Cas92Hh5mJp+lYoqdTvQA6sslCzLEQu1DOuglXXeA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Zulu55/Lands/delete/master/Lands/Lands.iOS/Resources/ic_action_info.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vl++KnlvKmTGVQowO52fKlXHzaJmQ6nnsLXwlTe52WmU//KOmE9ppequFG4yjWubRRVRWZIHCCylmOLHOZGmww==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -826,9 +826,7 @@
 </form>  </div>
 
   <div class="file-info">
-      <span class="file-mode" title="File mode">executable file</span>
-      <span class="file-info-divider"></span>
-    565 Bytes
+    659 Bytes
   </div>
 </div>
 
@@ -836,7 +834,7 @@
 
   <div itemprop="text" class="blob-wrapper data type-text ">
       <div class="image">
-          <span class="border-wrap"><img src="/Zulu55/Lands/blob/master/Lands/Lands.iOS/Resources/ic_chevron_right.png?raw=true" alt="ic_chevron_right.png"></span>
+          <span class="border-wrap"><img src="/Zulu55/Lands/blob/master/Lands/Lands.iOS/Resources/ic_action_info.png?raw=true" alt="ic_action_info.png"></span>
       </div>
   </div>
 
@@ -868,7 +866,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.64360s from unicorn-7cc47848f8-zw6sm">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.59965s from unicorn-7f95dcf5df-2zxgg">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
