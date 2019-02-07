@@ -4,6 +4,7 @@
              x:Class="Lands.Views.LandPage"
              BindingContext="{Binding Main, Source={StaticResource Locator}}"
              BackgroundColor="Silver"
+             Icon="ic_action_info"
              Title="Informacion">
     <ContentPage.Content>
         <ScrollView

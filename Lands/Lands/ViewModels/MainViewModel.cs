@@ -1,13 +1,16 @@
 ﻿
 namespace Lands.ViewModels
 {
-    using System;
+    using Lands.Models;
     using System.Collections.Generic;
-    using System.Text;
 
     // Este Model es la que controlara el resto de las ViewModels
     public class MainViewModel
     {
+        #region Properties
+        public List<Land> LandsList { get; set; }
+        #endregion
+
         #region ViewModels
         public LoginViewModel Login
         {
