@@ -5,7 +5,7 @@
     using System.Windows.Input;
     using Views;
     using Xamarin.Forms;
-    
+    using Helpers;    
 
     public class LoginViewModel : BaseViewModel 
     {
@@ -56,8 +56,8 @@
             this.IsRemembered = true;
             this.IsEnabled = true;
             // Para no escribir tanto en las pruebas
-            /*this.Email = "jcpell@gmail.com";
-            this.Password = "1234";*/
+            this.Email = "jcpell@gmail.com";
+            this.Password = "Asd123**";
         }
         #endregion
 
@@ -76,13 +76,17 @@
             if(string.IsNullOrEmpty(this.Email))
             {
                 await Application.Current.MainPage.DisplayAlert(
-                    "Error", "Ud. debe ingresar un email", "Aceptar");
+                    Languages.Error, 
+                    Languages.EmailValidation, 
+                    Languages.Accept);
                 return;
             }
             if(string.IsNullOrEmpty(this.Password))
             {
                 await Application.Current.MainPage.DisplayAlert(
-                    "Error", "Ud. debe ingresar un password","Aceptar");
+                    Languages.Error,
+                    Languages.PasswordValidation,
+                    Languages.Accept);
                 return;
             }
 
@@ -104,9 +108,9 @@
             if(!connection.IsSuccess)
             {
                 await Application.Current.MainPage.DisplayAlert(
-                    "Error", 
-                    connection.Message, 
-                    "Aceptar");
+                    Languages.Error,
+                    connection.Message,
+                    Languages.Accept);
                 return;
             }
             var token = await this.apiService.GetToken(
@@ -117,7 +121,9 @@
             if (token == null)
             {
                 await Application.Current.MainPage.DisplayAlert(
-                        "Error", "Algo salió mal, por favor intente más tarde", "Aceptar");
+                        Languages.Error,
+                        Languages.SomethingWrong, 
+                        Languages.Accept);
                 return;
             }
 
@@ -126,9 +132,9 @@
                 this.IsRunning = false;
                 this.IsEnabled = true;
                 await Application.Current.MainPage.DisplayAlert(
-                    "Error", 
-                    token.ErrorDescription, 
-                    "Aceptar");
+                    Languages.Error, 
+                    token.ErrorDescription,
+                    Languages.Accept);
                 this.Password = string.Empty;
                 return;
             }
